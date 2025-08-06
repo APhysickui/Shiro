@@ -1,10 +1,4 @@
 {
-  "rewrites": [
-    {
-      "source": "/api/v2/:path*",
-      "destination": "https://akuiro24.xyz/api/v2/:path*"
-    }
-  ],
   "headers": [
     {
       "source": "/",
